@@ -1,0 +1,3 @@
+(x,y) control
+ser1	servo1	3	SLIDER	Y Axis	0	1.0	0.0
+ser2	servo2	3	SLIDER	X Axis	0	1.0	0.0

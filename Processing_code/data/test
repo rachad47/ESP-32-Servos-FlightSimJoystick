@@ -1,0 +1,4 @@
+esp32Test2
+xAxis	..	3	SLIDER	X Axis	0	1.0	0.0
+yAxis	...	3	SLIDER	Y Axis	0	1.0	0.0
+fire	....	1	BUTTON	Button 0	0	0.0	0.0
